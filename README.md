@@ -4,4 +4,4 @@
 tab进行展示，加入了SwipeRefreshLayout下拉刷新的空间。可通过默认的信息添加联系人发送也可以自己自定义信息内容
 
 
- ![image](https://github.com/zhengwenming/WMPlayer/blob/master/WMPlayer/Resource/WMPlayer.gif) 
+ ![image](https://github.com/lynhao/Festival_Message/blob/master/festival_sms/src/main/res/drawable-v21/屏幕快照%202016-07-19%2015.00.32.png) 
