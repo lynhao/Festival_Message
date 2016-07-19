@@ -1,5 +1,6 @@
 # Festival_Message
-这是一个节日短信app
+这是一个节日短信app version 1.0
+
 ◈ 引导页 ，集成了动画效果，用到了PageTransformer，activity转场动画
 
 ◈ 主页通过两个tab （fragment+viewpager）进行展示
