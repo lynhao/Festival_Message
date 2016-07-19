@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PhoneTextDemo.iml" filepath="$PROJECT_DIR$/../PhoneTextDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../addressbook/addressbook.iml" filepath="$PROJECT_DIR$/../addressbook/addressbook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../baseadapter/baseadapter.iml" filepath="$PROJECT_DIR$/../baseadapter/baseadapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../baseadapter2/baseadapter2.iml" filepath="$PROJECT_DIR$/../baseadapter2/baseadapter2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/festival_sms.iml" filepath="$PROJECT_DIR$/festival_sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../httpconnection/httpconnection.iml" filepath="$PROJECT_DIR$/../httpconnection/httpconnection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../json/json.iml" filepath="$PROJECT_DIR$/../json/json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../listviewfrashdemo/listviewfrashdemo.iml" filepath="$PROJECT_DIR$/../listviewfrashdemo/listviewfrashdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../littleplayer/littleplayer.iml" filepath="$PROJECT_DIR$/../littleplayer/littleplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../menudemo/menudemo.iml" filepath="$PROJECT_DIR$/../menudemo/menudemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test_fragment/test_fragment.iml" filepath="$PROJECT_DIR$/../test_fragment/test_fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../weixin_lyn/weixin_lyn.iml" filepath="$PROJECT_DIR$/../weixin_lyn/weixin_lyn.iml" />
+    </modules>
+  </component>
+</project>

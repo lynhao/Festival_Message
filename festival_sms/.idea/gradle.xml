@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-2.8" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../addressbook" />
+            <option value="$PROJECT_DIR$/../app" />
+            <option value="$PROJECT_DIR$/../baseadapter" />
+            <option value="$PROJECT_DIR$/../baseadapter2" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../httpconnection" />
+            <option value="$PROJECT_DIR$/../json" />
+            <option value="$PROJECT_DIR$/../listviewfrashdemo" />
+            <option value="$PROJECT_DIR$/../littleplayer" />
+            <option value="$PROJECT_DIR$/../menudemo" />
+            <option value="$PROJECT_DIR$/../test_fragment" />
+            <option value="$PROJECT_DIR$/../weixin_lyn" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

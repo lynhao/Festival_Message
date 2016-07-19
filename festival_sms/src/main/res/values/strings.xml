@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">节日短信</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_choose_msg">ChooseMsgActivity</string>
+    <string name="title_activity_send_msg">SendMsgActivity</string>
+
+
+    <string name="screen1_title">Unlimited Calls</string>
+    <string name="screen1_desc">Call your friends, family, Relatives free of cost anytime anywhere.</string>
+    <string name="screen2_title">Group Conversations</string>
+    <string name="screen2_desc">Create your own group and share Snapshots, Videos etc. </string>
+    <string name="screen3_title">Synchronize with your laptop</string>
+    <string name="screen3_desc">Get notified with your calls and messages to your laptop</string>
+
+
+    <string name="action_search">查找</string>
+    <string name="action_add">添加</string>
+    <string name="menu_group_chat">发起群聊</string>
+    <string name="menu_feedback">意见反馈</string>
+    <string name="menu_addfriend">添加朋友</string>
+    <string name="menu_scan">扫一扫</string>
+    <string name="tab_contact">通讯录</string>
+    <string name="tab_found">发现</string>
+    <string name="tab_me">我</string>
+
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+
+</resources>
